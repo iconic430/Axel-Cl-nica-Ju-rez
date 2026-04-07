@@ -1,0 +1,5 @@
+{
+  "name": "Dr. Hector Juarez - Diseño de Sonrisa",
+  "description": "Landing page premium para servicios de diseño de sonrisa y odontología estética en Hermosillo.",
+  "requestFramePermissions": ["geolocation"]
+}
